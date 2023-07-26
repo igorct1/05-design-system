@@ -1,0 +1,3 @@
+{
+    "extends": "@reason-ignite-ui/eslint-config"
+}
