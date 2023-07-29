@@ -31,7 +31,9 @@
   },
   "dependencies": {
     "@reason-ignite-ui/eslint-config": "*",
+    "@reason-ignite-ui/ts-config": "*",
     "@reason-ignite-ui/react": "*",
-    "@reason-ignite-ui/tokens": "*"
+    "@reason-ignite-ui/tokens": "*",
+    "polished": "^4.2.2"
   }
 }
