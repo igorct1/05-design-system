@@ -26,5 +26,10 @@
     "react-dom": "^18.2.0",
     "storybook": "^7.1.1",
     "vite": "^4.4.7"
+  },
+  "dependencies": {
+    "@reason-ignite-ui/eslint-config": "*",
+    "@reason-ignite-ui/react": "*",
+    "@reason-ignite-ui/tokens": "*"
   }
 }
