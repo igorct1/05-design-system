@@ -4,7 +4,7 @@ import { TextInput, TextInputProps } from '@reason-ignite-ui/react'
 export default {
   title: 'Form/TextInput',
   component: TextInput,
-
+  tags: ['autodocs'],
   args: {},
 } as Meta<TextInputProps>
 

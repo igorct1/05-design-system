@@ -4,7 +4,7 @@ import { TextArea, TextAreaProps } from '@reason-ignite-ui/react'
 export default {
   title: 'Form/TextArea',
   component: TextArea,
-
+  tags: ['autodocs'],
   args: {},
 } as Meta<TextAreaProps>
 
