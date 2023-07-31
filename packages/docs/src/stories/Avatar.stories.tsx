@@ -9,6 +9,14 @@ export default {
     src: 'https://github.com/igorct1.png',
     alt: 'Igor Tozetti',
   },
+
+  argTypes: {
+    src: {
+      control: {
+        type: 'Text',
+      },
+    },
+  },
 } as Meta<AvatarProps>
 
 export const Primary: StoryObj<AvatarProps> = {}
