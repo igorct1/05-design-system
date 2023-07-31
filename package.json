@@ -4,11 +4,13 @@
         "packages/*"
     ],
     "scripts": {
-      "dev": "turbo run dev --parallel",
-      "build": "turbo run build"
+        "dev": "turbo run dev --parallel",
+        "build": "turbo run build"
     },
-    
     "devDependencies": {
         "turbo": "^1.10.12"
+    },
+    "dependencies": {
+        "@storybook/addon-a11y": "^7.1.1"
     }
 }
