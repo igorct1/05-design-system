@@ -1,5 +1,11 @@
 # @reason-ignite-ui/react
 
+## 1.1.2
+
+### Patch Changes
+
+- adding tooltip stories component
+
 ## 1.1.1
 
 ### Patch Changes
