@@ -1,5 +1,11 @@
 # @reason-ignite-ui/react
 
+## 1.1.3
+
+### Patch Changes
+
+- adding toast stories component
+
 ## 1.1.2
 
 ### Patch Changes
